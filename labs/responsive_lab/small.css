@@ -1,0 +1,24 @@
+#home-menu h2{
+    background-image: url(images/menu-head-smallest.png);
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 47px;
+    text-indent: -10000px;
+    margin: 0 auto;
+    position: relative;
+    top: -4px;
+}
+
+#home-menu li{
+    float: left;
+    width: 92%;
+    padding: 0;
+    margin: 20px 0 20px 8%;
+}
+
+#featured li{
+    float: none;
+    width: 92%;
+    margin: 1%;
+    list-style-type: none; 
+}
